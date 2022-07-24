@@ -1,0 +1,20 @@
+ros2 topic pub --once /imu23/imu sensor_msgs/msg/Imu "{linear_acceleration: {x: 2.0, y: 0.0, z: 0.0}, angular_velocity: {x: 0.0, y: 0.0, z: 1.8}}"
+
+
+Linear Acceleration in m/s^2
+
+3.1 m/s^2 = 0.316112 g
+
+4.5 m/s^2 = 0.458872 g
+
+6.3 m/s^2 = 0.642421 g
+
+Angular Velocity in deg/sec
+
+10 rad = 0.17
+
+60 rad = 1.05
+
+75 rad = 1.31
+
+ros2 topic pub --once /imu23/imu sensor_msgs/msg/Imu "{linear_acceleration: {x: 2.0, y: 0.0, z: 0.0}, angular_velocity: {x: 0.0, y: 0.0, z: 1.8}}"
