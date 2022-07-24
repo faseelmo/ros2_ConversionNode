@@ -1,0 +1,10 @@
+/home/faseel98/task_ws/build/conv_pkg/CMakeFiles/install/strip.dir
+/home/faseel98/task_ws/build/conv_pkg/CMakeFiles/install/local.dir
+/home/faseel98/task_ws/build/conv_pkg/CMakeFiles/install.dir
+/home/faseel98/task_ws/build/conv_pkg/CMakeFiles/list_install_components.dir
+/home/faseel98/task_ws/build/conv_pkg/CMakeFiles/rebuild_cache.dir
+/home/faseel98/task_ws/build/conv_pkg/CMakeFiles/edit_cache.dir
+/home/faseel98/task_ws/build/conv_pkg/CMakeFiles/test.dir
+/home/faseel98/task_ws/build/conv_pkg/CMakeFiles/cpp_conv_node.dir
+/home/faseel98/task_ws/build/conv_pkg/CMakeFiles/conv_pkg_uninstall.dir
+/home/faseel98/task_ws/build/conv_pkg/CMakeFiles/uninstall.dir
