@@ -1,0 +1,20 @@
+[0.029s] Invoking command in '/home/faseel98/task_ws/build/conv_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faseel98/ros2_ws/install/my_py_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/faseel98/task_ws/build/conv_pkg -- -j5 -l5
+[0.064s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.106s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.376s] -- Found rclcpp: 2.4.1 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.430s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.436s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.633s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.723s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.726s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.993s] CMake Error at /opt/ros/foxy/share/ament_cmake_target_dependencies/cmake/ament_target_dependencies.cmake:42 (message):
+[0.993s]   ament_target_dependencies() the first argument must be a valid target name
+[0.993s] Call Stack (most recent call first):
+[0.993s]   CMakeLists.txt:19 (ament_target_dependencies)
+[0.993s] 
+[0.993s] 
+[0.995s] -- Configuring incomplete, errors occurred!
+[0.995s] See also "/home/faseel98/task_ws/build/conv_pkg/CMakeFiles/CMakeOutput.log".
+[0.995s] See also "/home/faseel98/task_ws/build/conv_pkg/CMakeFiles/CMakeError.log".
+[1.001s] make: *** [Makefile:222: cmake_check_build_system] Error 1
+[1.003s] Invoked command in '/home/faseel98/task_ws/build/conv_pkg' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faseel98/ros2_ws/install/my_py_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/faseel98/task_ws/build/conv_pkg -- -j5 -l5

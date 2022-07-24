@@ -1,0 +1,2 @@
+Invoking command in '/home/faseel98/task_ws/build/conv_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faseel98/ros2_ws/install/my_py_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/faseel98/task_ws/build/conv_pkg -- -j5 -l5
+Invoked command in '/home/faseel98/task_ws/build/conv_pkg' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faseel98/ros2_ws/install/my_py_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/faseel98/task_ws/build/conv_pkg -- -j5 -l5

@@ -1,0 +1,34 @@
+-- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found rclcpp: 2.4.1 (/opt/ros/foxy/share/rclcpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found sensor_msgs: 0.0.0 (/home/faseel98/topas_ws/install/sensor_msgs/share/sensor_msgs/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/faseel98/task_ws/build/conv_pkg
+[35m[1mScanning dependencies of target cpp_conv_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/cpp_conv_node.dir/src/conversion_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable cpp_conv_node[0m
+[100%] Built target cpp_conv_node
+-- Install configuration: ""
+-- Installing: /home/faseel98/task_ws/install/conv_pkg/lib/conv_pkg/cpp_conv_node
+-- Set runtime path of "/home/faseel98/task_ws/install/conv_pkg/lib/conv_pkg/cpp_conv_node" to ""
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/ament_index/resource_index/package_run_dependencies/conv_pkg
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/ament_index/resource_index/parent_prefix_path/conv_pkg
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/environment/ament_prefix_path.sh
+-- Installing: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/environment/path.sh
+-- Installing: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/environment/path.dsv
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/local_setup.bash
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/local_setup.sh
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/local_setup.zsh
+-- Installing: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/local_setup.dsv
+-- Installing: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/package.dsv
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/ament_index/resource_index/packages/conv_pkg
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/cmake/conv_pkgConfig.cmake
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/cmake/conv_pkgConfig-version.cmake
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/package.xml

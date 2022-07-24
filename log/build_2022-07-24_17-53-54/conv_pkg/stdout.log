@@ -1,0 +1,22 @@
+[35m[1mScanning dependencies of target cpp_conv_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/cpp_conv_node.dir/src/conversion_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable cpp_conv_node[0m
+[100%] Built target cpp_conv_node
+-- Install configuration: ""
+-- Installing: /home/faseel98/task_ws/install/conv_pkg/lib/conv_pkg/cpp_conv_node
+-- Set runtime path of "/home/faseel98/task_ws/install/conv_pkg/lib/conv_pkg/cpp_conv_node" to ""
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/ament_index/resource_index/package_run_dependencies/conv_pkg
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/ament_index/resource_index/parent_prefix_path/conv_pkg
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/environment/ament_prefix_path.sh
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/environment/path.sh
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/environment/path.dsv
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/local_setup.bash
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/local_setup.sh
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/local_setup.zsh
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/local_setup.dsv
+-- Installing: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/package.dsv
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/ament_index/resource_index/packages/conv_pkg
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/cmake/conv_pkgConfig.cmake
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/cmake/conv_pkgConfig-version.cmake
+-- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/package.xml

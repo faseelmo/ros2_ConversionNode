@@ -1,0 +1,44 @@
+[0.030s] Invoking command in '/home/faseel98/task_ws/build/conv_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faseel98/ros2_ws/install/my_py_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/faseel98/task_ws/build/conv_pkg -- -j5 -l5
+[0.064s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.104s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.372s] -- Found rclcpp: 2.4.1 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.425s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.431s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.603s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.703s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.706s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.064s] -- Configuring done
+[1.075s] -- Generating done
+[1.078s] -- Build files have been written to: /home/faseel98/task_ws/build/conv_pkg
+[1.106s] [35m[1mScanning dependencies of target cpp_conv_node[0m
+[1.155s] [ 50%] [32mBuilding CXX object CMakeFiles/cpp_conv_node.dir/src/conversion_node.cpp.o[0m
+[2.965s] [01m[K/home/faseel98/task_ws/src/conv_pkg/src/conversion_node.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[2.965s] [01m[K/home/faseel98/task_ws/src/conv_pkg/src/conversion_node.cpp:3:15:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kargc[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[2.965s]     3 | int main ([01;35m[Kint argc[m[K, char **argv) {
+[2.965s]       |           [01;35m[K~~~~^~~~[m[K
+[2.965s] [01m[K/home/faseel98/task_ws/src/conv_pkg/src/conversion_node.cpp:3:28:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kargv[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[2.965s]     3 | int main (int argc, [01;35m[Kchar **argv[m[K) {
+[2.966s]       |                     [01;35m[K~~~~~~~^~~~[m[K
+[3.468s] [100%] [32m[1mLinking CXX executable cpp_conv_node[0m
+[3.591s] [100%] Built target cpp_conv_node
+[3.604s] Invoked command in '/home/faseel98/task_ws/build/conv_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faseel98/ros2_ws/install/my_py_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/faseel98/task_ws/build/conv_pkg -- -j5 -l5
+[3.652s] Invoking command in '/home/faseel98/task_ws/build/conv_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faseel98/ros2_ws/install/my_py_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/faseel98/task_ws/build/conv_pkg
+[3.662s] -- Install configuration: ""
+[3.662s] -- Installing: /home/faseel98/task_ws/install/conv_pkg/lib/conv_pkg/cpp_conv_node
+[3.662s] -- Set runtime path of "/home/faseel98/task_ws/install/conv_pkg/lib/conv_pkg/cpp_conv_node" to ""
+[3.662s] -- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/ament_index/resource_index/package_run_dependencies/conv_pkg
+[3.663s] -- Installing: /home/faseel98/task_ws/install/conv_pkg/share/ament_index/resource_index/parent_prefix_path/conv_pkg
+[3.663s] -- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/environment/ament_prefix_path.sh
+[3.663s] -- Installing: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/environment/ament_prefix_path.dsv
+[3.663s] -- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/environment/path.sh
+[3.663s] -- Installing: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/environment/path.dsv
+[3.663s] -- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/local_setup.bash
+[3.664s] -- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/local_setup.sh
+[3.664s] -- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/local_setup.zsh
+[3.664s] -- Installing: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/local_setup.dsv
+[3.664s] -- Installing: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/package.dsv
+[3.664s] -- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/ament_index/resource_index/packages/conv_pkg
+[3.664s] -- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/cmake/conv_pkgConfig.cmake
+[3.664s] -- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/cmake/conv_pkgConfig-version.cmake
+[3.664s] -- Up-to-date: /home/faseel98/task_ws/install/conv_pkg/share/conv_pkg/package.xml
+[3.668s] Invoked command in '/home/faseel98/task_ws/build/conv_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faseel98/ros2_ws/install/my_py_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/faseel98/task_ws/build/conv_pkg
