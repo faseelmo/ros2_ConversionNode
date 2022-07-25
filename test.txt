@@ -1,6 +1,3 @@
-ros2 topic pub --once /imu23/imu sensor_msgs/msg/Imu "{linear_acceleration: {x: 2.0, y: 0.0, z: 0.0}, angular_velocity: {x: 0.0, y: 0.0, z: 1.8}}"
-
-
 Linear Acceleration in m/s^2
 
 3.1 m/s^2 = 0.316112 g
@@ -17,4 +14,4 @@ Angular Velocity in deg/sec
 
 75 rad = 1.31
 
-ros2 topic pub --once /imu23/imu sensor_msgs/msg/Imu "{linear_acceleration: {x: 2.0, y: 0.0, z: 0.0}, angular_velocity: {x: 0.0, y: 0.0, z: 1.8}}"
+ros2 topic pub --once /imu23/imu sensor_msgs/msg/Imu "{linear_acceleration: {x: 3.1, y: 4.5, z: 6.3}, angular_velocity: {x: 10, y: 60, z: 75}}"
